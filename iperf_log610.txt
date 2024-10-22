@@ -1,0 +1,313 @@
+[  5]   0.00-60.00  sec  2.39 GBytes   342 Mbits/sec  717             sender
+[  5]   0.00-60.00  sec  1.42 GBytes   203 Mbits/sec  2568             sender
+[  5]   0.00-60.00  sec  2.01 GBytes   287 Mbits/sec  339             sender
+[  5]   0.00-60.00  sec  1.63 GBytes   233 Mbits/sec    3             sender
+[  5]   0.00-60.06  sec  1.62 GBytes   232 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.45 GBytes   350 Mbits/sec  917             sender
+[  5]   0.00-60.06  sec  2.45 GBytes   350 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.05 GBytes   294 Mbits/sec  1925             sender
+[  5]   0.00-60.07  sec  2.05 GBytes   294 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.07  sec  1.57 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.44 GBytes   349 Mbits/sec  444             sender
+[  5]   0.00-60.06  sec  2.44 GBytes   349 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   223 Mbits/sec    3             sender
+[  5]   0.00-60.07  sec  1.56 GBytes   223 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.41 GBytes   345 Mbits/sec  1080             sender
+[  5]   0.00-60.07  sec  2.41 GBytes   344 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.49 GBytes   356 Mbits/sec  363             sender
+[  5]   0.00-60.07  sec  2.49 GBytes   356 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.07  sec  1.56 GBytes   223 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.07 GBytes   296 Mbits/sec  1525             sender
+[  5]   0.00-60.06  sec  2.06 GBytes   295 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.62 GBytes   233 Mbits/sec    0             sender
+[  5]   0.00-60.07  sec  1.62 GBytes   232 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.40 GBytes   344 Mbits/sec  1392             sender
+[  5]   0.00-60.06  sec  2.40 GBytes   343 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.37 GBytes   340 Mbits/sec  1266             sender
+[  5]   0.00-60.06  sec  2.37 GBytes   339 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.51 GBytes   360 Mbits/sec   89             sender
+[  5]   0.00-60.07  sec  2.51 GBytes   359 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.49 GBytes   356 Mbits/sec   90             sender
+[  5]   0.00-60.06  sec  2.48 GBytes   355 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.49 GBytes   356 Mbits/sec  502             sender
+[  5]   0.00-60.07  sec  2.49 GBytes   356 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.63 GBytes   233 Mbits/sec    2             sender
+[  5]   0.00-60.06  sec  1.63 GBytes   233 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.45 GBytes   351 Mbits/sec  451             sender
+[  5]   0.00-60.07  sec  2.45 GBytes   351 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.28 GBytes   326 Mbits/sec  1247             sender
+[  5]   0.00-60.06  sec  2.28 GBytes   326 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.46 GBytes   353 Mbits/sec  172             sender
+[  5]   0.00-60.07  sec  2.46 GBytes   352 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   225 Mbits/sec    2             sender
+[  5]   0.00-60.07  sec  1.57 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.07  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.23 GBytes   320 Mbits/sec  1037             sender
+[  5]   0.00-60.06  sec  2.23 GBytes   319 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    5             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.49 GBytes   357 Mbits/sec  240             sender
+[  5]   0.00-60.06  sec  2.49 GBytes   356 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.07  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.49 GBytes   357 Mbits/sec   36             sender
+[  5]   0.00-60.06  sec  2.49 GBytes   357 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.81 GBytes   259 Mbits/sec  1222             sender
+[  5]   0.00-60.06  sec  1.81 GBytes   258 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.33 GBytes   333 Mbits/sec  854             sender
+[  5]   0.00-60.07  sec  2.32 GBytes   332 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.45 GBytes   350 Mbits/sec  398             sender
+[  5]   0.00-60.06  sec  2.45 GBytes   350 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.13 GBytes   305 Mbits/sec  966             sender
+[  5]   0.00-60.06  sec  2.13 GBytes   305 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.93 GBytes   277 Mbits/sec  1218             sender
+[  5]   0.00-60.07  sec  1.93 GBytes   276 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   225 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.57 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.44 GBytes   350 Mbits/sec  516             sender
+[  5]   0.00-60.06  sec  2.44 GBytes   350 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.20 GBytes   314 Mbits/sec  2246             sender
+[  5]   0.00-60.06  sec  2.20 GBytes   314 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.49 GBytes   357 Mbits/sec  372             sender
+[  5]   0.00-60.06  sec  2.49 GBytes   356 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.50 GBytes   357 Mbits/sec  276             sender
+[  5]   0.00-60.06  sec  2.49 GBytes   357 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.50 GBytes   215 Mbits/sec  186             sender
+[  5]   0.00-60.06  sec  1.50 GBytes   214 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.39 GBytes   342 Mbits/sec  516             sender
+[  5]   0.00-60.07  sec  2.39 GBytes   342 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.52 GBytes   360 Mbits/sec    5             sender
+[  5]   0.00-60.07  sec  2.52 GBytes   360 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.99 GBytes   284 Mbits/sec  820             sender
+[  5]   0.00-60.06  sec  1.98 GBytes   284 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.48 GBytes   355 Mbits/sec  259             sender
+[  5]   0.00-60.06  sec  2.48 GBytes   355 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.32 GBytes   332 Mbits/sec  429             sender
+[  5]   0.00-60.07  sec  2.32 GBytes   331 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.52 GBytes   361 Mbits/sec   16             sender
+[  5]   0.00-60.06  sec  2.52 GBytes   361 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.43 GBytes   348 Mbits/sec  972             sender
+[  5]   0.00-60.08  sec  2.43 GBytes   347 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    7             sender
+[  5]   0.00-60.06  sec  1.57 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    4             sender
+[  5]   0.00-60.07  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.39 GBytes   342 Mbits/sec  1638             sender
+[  5]   0.00-60.06  sec  2.39 GBytes   341 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec   58             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.52 GBytes   360 Mbits/sec  102             sender
+[  5]   0.00-60.07  sec  2.52 GBytes   360 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.38 GBytes   340 Mbits/sec  984             sender
+[  5]   0.00-60.07  sec  2.38 GBytes   340 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.20 GBytes   172 Mbits/sec  622             sender
+[  5]   0.00-60.07  sec  1.20 GBytes   172 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.39 GBytes   343 Mbits/sec  407             sender
+[  5]   0.00-60.07  sec  2.39 GBytes   342 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.57 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.27 GBytes   325 Mbits/sec  859             sender
+[  5]   0.00-60.07  sec  2.27 GBytes   324 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.50 GBytes   358 Mbits/sec  316             sender
+[  5]   0.00-60.06  sec  2.50 GBytes   358 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.42 GBytes   347 Mbits/sec  550             sender
+[  5]   0.00-60.08  sec  2.42 GBytes   347 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.43 GBytes   348 Mbits/sec  1246             sender
+[  5]   0.00-60.07  sec  2.43 GBytes   347 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.57 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.57 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.62 GBytes   232 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.62 GBytes   231 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.35 GBytes   336 Mbits/sec  824             sender
+[  5]   0.00-60.07  sec  2.34 GBytes   335 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   225 Mbits/sec    1             sender
+[  5]   0.00-60.06  sec  1.57 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.35 GBytes   337 Mbits/sec  325             sender
+[  5]   0.00-60.07  sec  2.35 GBytes   336 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.37 GBytes   339 Mbits/sec  664             sender
+[  5]   0.00-60.07  sec  2.37 GBytes   339 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.48 GBytes   354 Mbits/sec  1034             sender
+[  5]   0.00-60.07  sec  2.47 GBytes   354 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.50 GBytes   358 Mbits/sec  243             sender
+[  5]   0.00-60.09  sec  2.50 GBytes   358 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.76 GBytes   252 Mbits/sec  471             sender
+[  5]   0.00-60.06  sec  1.76 GBytes   252 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.24 GBytes   321 Mbits/sec  1568             sender
+[  5]   0.00-60.08  sec  2.24 GBytes   321 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.44 GBytes   350 Mbits/sec  669             sender
+[  5]   0.00-60.07  sec  2.44 GBytes   349 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   223 Mbits/sec   24             sender
+[  5]   0.00-60.07  sec  1.56 GBytes   223 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.29 GBytes   184 Mbits/sec  898             sender
+[  5]   0.00-60.06  sec  1.28 GBytes   184 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.53 GBytes   362 Mbits/sec    7             sender
+[  5]   0.00-60.07  sec  2.53 GBytes   362 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.48 GBytes   356 Mbits/sec  1115             sender
+[  5]   0.00-60.07  sec  2.48 GBytes   355 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.52 GBytes   360 Mbits/sec  447             sender
+[  5]   0.00-60.06  sec  2.52 GBytes   360 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.50 GBytes   358 Mbits/sec  315             sender
+[  5]   0.00-60.07  sec  2.50 GBytes   357 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.62 GBytes   232 Mbits/sec  118             sender
+[  5]   0.00-60.06  sec  1.62 GBytes   232 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec   958 MBytes   134 Mbits/sec  2819             sender
+[  5]   0.00-60.06  sec   956 MBytes   134 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.33 GBytes   334 Mbits/sec  855             sender
+[  5]   0.00-60.06  sec  2.33 GBytes   333 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.53 GBytes   362 Mbits/sec   29             sender
+[  5]   0.00-60.08  sec  2.53 GBytes   362 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.46 GBytes   352 Mbits/sec  778             sender
+[  5]   0.00-60.07  sec  2.46 GBytes   351 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.40 GBytes   343 Mbits/sec  395             sender
+[  5]   0.00-60.07  sec  2.40 GBytes   343 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.40 GBytes   344 Mbits/sec  1246             sender
+[  5]   0.00-60.06  sec  2.40 GBytes   344 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.31 GBytes   330 Mbits/sec  449             sender
+[  5]   0.00-60.06  sec  2.31 GBytes   330 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.63 GBytes   233 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.62 GBytes   232 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.12 GBytes   303 Mbits/sec  1008             sender
+[  5]   0.00-60.06  sec  2.12 GBytes   303 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.44 GBytes   350 Mbits/sec  468             sender
+[  5]   0.00-60.07  sec  2.44 GBytes   350 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   223 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   223 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.19 GBytes   313 Mbits/sec  936             sender
+[  5]   0.00-60.06  sec  2.19 GBytes   313 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.63 GBytes   234 Mbits/sec    0             sender
+[  5]   0.00-60.07  sec  1.63 GBytes   234 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.83 GBytes   262 Mbits/sec  851             sender
+[  5]   0.00-60.06  sec  1.83 GBytes   261 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   224 Mbits/sec    5             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   223 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   223 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.84 GBytes   264 Mbits/sec  166             sender
+[  5]   0.00-60.07  sec  1.84 GBytes   263 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.45 GBytes   351 Mbits/sec  223             sender
+[  5]   0.00-60.07  sec  2.45 GBytes   350 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   225 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.57 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.49 GBytes   356 Mbits/sec  316             sender
+[  5]   0.00-60.07  sec  2.49 GBytes   356 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.47 GBytes   354 Mbits/sec  503             sender
+[  5]   0.00-60.06  sec  2.47 GBytes   354 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.57 GBytes   225 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.57 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.44 GBytes   350 Mbits/sec  433             sender
+[  5]   0.00-60.08  sec  2.44 GBytes   349 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.42 GBytes   346 Mbits/sec  628             sender
+[  5]   0.00-60.07  sec  2.42 GBytes   346 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.62 GBytes   232 Mbits/sec  868             sender
+[  5]   0.00-60.06  sec  1.62 GBytes   232 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.16 GBytes   309 Mbits/sec  1712             sender
+[  5]   0.00-60.06  sec  2.16 GBytes   309 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.35 GBytes   336 Mbits/sec  1256             sender
+[  5]   0.00-60.07  sec  2.35 GBytes   335 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   223 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.94 GBytes   278 Mbits/sec  579             sender
+[  5]   0.00-60.07  sec  1.94 GBytes   277 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.45 GBytes   208 Mbits/sec  675             sender
+[  5]   0.00-60.07  sec  1.45 GBytes   207 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.58 GBytes   226 Mbits/sec  1250             sender
+[  5]   0.00-60.07  sec  1.58 GBytes   226 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.47 GBytes   211 Mbits/sec  2171             sender
+[  5]   0.00-60.07  sec  1.47 GBytes   210 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.22 GBytes   318 Mbits/sec  902             sender
+[  5]   0.00-60.06  sec  2.22 GBytes   318 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   224 Mbits/sec    3             sender
+[  5]   0.00-60.07  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.09 GBytes   299 Mbits/sec  971             sender
+[  5]   0.00-60.07  sec  2.09 GBytes   298 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.27 GBytes   325 Mbits/sec  1937             sender
+[  5]   0.00-60.06  sec  2.27 GBytes   325 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.28 GBytes   327 Mbits/sec  2072             sender
+[  5]   0.00-60.07  sec  2.28 GBytes   326 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.16 GBytes   309 Mbits/sec  1441             sender
+[  5]   0.00-60.06  sec  2.16 GBytes   308 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.29 GBytes   328 Mbits/sec  737             sender
+[  5]   0.00-60.06  sec  2.29 GBytes   328 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   224 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   223 Mbits/sec  106             sender
+[  5]   0.00-60.07  sec  1.56 GBytes   222 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.16 GBytes   309 Mbits/sec  913             sender
+[  5]   0.00-60.06  sec  2.16 GBytes   309 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.07 GBytes   297 Mbits/sec  2307             sender
+[  5]   0.00-60.06  sec  2.07 GBytes   297 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.09 GBytes   299 Mbits/sec  896             sender
+[  5]   0.00-60.08  sec  2.09 GBytes   299 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.78 GBytes   255 Mbits/sec  1443             sender
+[  5]   0.00-60.07  sec  1.78 GBytes   254 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.34 GBytes   335 Mbits/sec  133             sender
+[  5]   0.00-60.07  sec  2.34 GBytes   335 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.40 GBytes   344 Mbits/sec  712             sender
+[  5]   0.00-60.07  sec  2.40 GBytes   344 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.11 GBytes   302 Mbits/sec  1137             sender
+[  5]   0.00-60.06  sec  2.11 GBytes   302 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.52 GBytes   218 Mbits/sec  220             sender
+[  5]   0.00-60.06  sec  1.52 GBytes   217 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.17 GBytes   310 Mbits/sec  802             sender
+[  5]   0.00-60.06  sec  2.17 GBytes   310 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   224 Mbits/sec    4             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.74 GBytes   249 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.74 GBytes   249 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.33 GBytes   334 Mbits/sec  773             sender
+[  5]   0.00-60.06  sec  2.33 GBytes   333 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.37 GBytes   339 Mbits/sec  827             sender
+[  5]   0.00-60.07  sec  2.37 GBytes   338 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.44 GBytes   206 Mbits/sec  419             sender
+[  5]   0.00-60.06  sec  1.44 GBytes   206 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.12 GBytes   303 Mbits/sec  577             sender
+[  5]   0.00-60.06  sec  2.12 GBytes   303 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.06 GBytes   296 Mbits/sec  785             sender
+[  5]   0.00-60.06  sec  2.06 GBytes   295 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.27 GBytes   324 Mbits/sec  462             sender
+[  5]   0.00-60.07  sec  2.27 GBytes   324 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.34 GBytes   336 Mbits/sec  245             sender
+[  5]   0.00-60.07  sec  2.34 GBytes   335 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.50 GBytes   214 Mbits/sec  566             sender
+[  5]   0.00-60.06  sec  1.49 GBytes   214 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.08 GBytes   297 Mbits/sec  1383             sender
+[  5]   0.00-60.07  sec  2.08 GBytes   297 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   223 Mbits/sec    4             sender
+[  5]   0.00-60.07  sec  1.56 GBytes   223 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.27 GBytes   325 Mbits/sec  608             sender
+[  5]   0.00-60.07  sec  2.27 GBytes   325 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.32 GBytes   333 Mbits/sec  592             sender
+[  5]   0.00-60.06  sec  2.32 GBytes   332 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.71 GBytes   245 Mbits/sec  1858             sender
+[  5]   0.00-60.07  sec  1.71 GBytes   245 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   223 Mbits/sec    0             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   223 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.07 GBytes   297 Mbits/sec  905             sender
+[  5]   0.00-60.07  sec  2.07 GBytes   296 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.27 GBytes   326 Mbits/sec  578             sender
+[  5]   0.00-60.07  sec  2.27 GBytes   325 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.38 GBytes   341 Mbits/sec  718             sender
+[  5]   0.00-60.07  sec  2.38 GBytes   340 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.96 GBytes   280 Mbits/sec  1393             sender
+[  5]   0.00-60.07  sec  1.95 GBytes   279 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   223 Mbits/sec  106             sender
+[  5]   0.00-60.07  sec  1.56 GBytes   223 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.05 GBytes   293 Mbits/sec   13             sender
+[  5]   0.00-60.07  sec  2.05 GBytes   293 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  2.12 GBytes   303 Mbits/sec  361             sender
+[  5]   0.00-60.06  sec  2.11 GBytes   302 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.56 GBytes   224 Mbits/sec  116             sender
+[  5]   0.00-60.06  sec  1.56 GBytes   224 Mbits/sec                  receiver
+[  5]   0.00-60.00  sec  1.79 GBytes   256 Mbits/sec  1002             sender
+[  5]   0.00-60.06  sec  1.79 GBytes   256 Mbits/sec                  receiver
