@@ -1,0 +1,34 @@
+2024-10-21T15:45:00.837 INFO    [update (7894:MainThread:7894)] Downloaded software update https://54.153.109.176/upload//fileDownload into /velocloud/images/image.R5232-20240516-GA-e4ca476843.zip in 21.106947 seconds, size=183548617, sha1=80cee8239f114d3d6ec254e48fa02505a252e790
+2024-10-21T15:45:00.838 DEBUG   [act (7894:MainThread:7894)] Activation progress: result={"activation_key": "***", "activated": false, "vco": "vco115-usca1.velocloud.net", "ignorecerterror": false, "progress": 70, "message": "Unpacking Software Update"}
+
+
+unable to open /etc/config/mvswitch: No such file or directory
+2024-10-21T15:49:11.878 INFO Adding ifname=ge1, vid=1, egress_tag_mode=untagged, ingress_tag_mode=untagged
+2024-10-21T15:49:12.239 INFO Adding ifname=ge2, vid=1, egress_tag_mode=untagged, ingress_tag_mode=untagged
+2024-10-21T15:49:55.123 INFO Adding ifname=ge1, vid=1, egress_tag_mode=untagged, ingress_tag_mode=untagged
+2024-10-21T15:49:55.171 INFO Adding ifname=ge2, vid=1, egress_tag_mode=untagged, ingress_tag_mode=untagged
+2024-10-21T15:49:55.218 INFO Adding ifname=ge3, vid=1, egress_tag_mode=untagged, ingress_tag_mode=untagged
+2024-10-21T15:49:55.276 INFO Adding ifname=ge4, vid=1, egress_tag_mode=untagged, ingress_tag_mode=untagged
+2024-10-21T15:49:55.333 INFO Adding ifname=ge5, vid=1, egress_tag_mode=untagged, ingress_tag_mode=untagged
+2024-10-26T17:33:11.793 INFO Flushing VTU
+2024-10-26T17:33:11.843 INFO Adding ifname=ge1, vid=1, egress_tag_mode=untagged, ingress_tag_mode=untagged
+2024-10-26T17:33:11.937 INFO Adding ifname=ge2, vid=1, egress_tag_mode=untagged, ingress_tag_mode=untagged
+
+	
+activate-sdwan.vmware.com	
+resolved	1729964029
+addr	
+0	null
+1	"54.148.17.95"
+veco115-kpdx1.velocloud.net	
+resolved	1729290164
+addrs	
+0	"2605:a7c0:281:128:0:8c::"
+1	"152.65.225.140"
+addr	"152.65.225.140"
+vco115-usca1.velocloud.net	
+resolved	1729290345
+addrs	
+0	null
+1	"54.153.109.176"
+addr	"54.153.109.176"
